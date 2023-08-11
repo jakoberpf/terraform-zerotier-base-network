@@ -7,14 +7,14 @@ This module provisions a zerotier network.
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_zerotier"></a> [zerotier](#requirement\_zerotier) | 1.2.0 |
+| <a name="requirement_zerotier"></a> [zerotier](#requirement\_zerotier) | 1.4.2 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
 | <a name="provider_random"></a> [random](#provider\_random) | n/a |
-| <a name="provider_zerotier"></a> [zerotier](#provider\_zerotier) | 1.2.0 |
+| <a name="provider_zerotier"></a> [zerotier](#provider\_zerotier) | 1.4.2 |
 
 ## Modules
 
@@ -25,7 +25,7 @@ No modules.
 | Name | Type |
 |------|------|
 | [random_string.deployment_id](https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/string) | resource |
-| [zerotier_network.this](https://registry.terraform.io/providers/zerotier/zerotier/1.2.0/docs/resources/network) | resource |
+| [zerotier_network.this](https://registry.terraform.io/providers/zerotier/zerotier/1.4.2/docs/resources/network) | resource |
 
 ## Inputs
 
